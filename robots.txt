@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: obereg.ga
+Sitemap: http://obereg.ga/sitemap.xml
